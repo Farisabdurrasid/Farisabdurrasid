@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello world! I'm Faris Abdur Rasid👋
 
 <!--
 **Farisabdurrasid/Farisabdurrasid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+##### My Profil 
+An Electrical Engineering graduate from the University of Bengkulu with a strong interest in computers and networking. Experienced in microcontroller-based system development, basic network troubleshooting, and an understanding of IoT technology. Capable of working both individually and in a team, he demonstrates high initiative and is responsive in completing tasks.
+
+##### Educational Background
+- Daarul Uluum Vocational School, Computer Network Engineering Department | 2017-2020
+- Bachelor of Electrical Engineering at the University of Bengkulu | 2020-2025
+
+##### Skills
